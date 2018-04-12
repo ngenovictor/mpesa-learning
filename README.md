@@ -10,3 +10,10 @@ TALK BY DARAJA guys at Moringa
 2. Replace with your credentials and phone number.
 3. Complete payment.
 4. Code and have fun!!!!
+
+## What it does
+1. It will request the phone number you have specified 
+through an stk push to accept payment of 10 shillings 
+to the test mpesa paybill number. 
+
+2. Don't worry your money will be refunded by them.
