@@ -32,7 +32,6 @@ class Mpesa(object):
 
         api_url = "https://sandbox.safaricom.co.ke/mpesa/stkpush/v1/processrequest"
         headers = {"Authorization": "Bearer %s" % access_token}
-        print(password)
         query_string = {
             "BusinessShortCode": short_code,
             "Password": password,
